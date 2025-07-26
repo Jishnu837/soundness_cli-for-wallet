@@ -29,6 +29,7 @@ soundness-cli generate-key --name my-key
 ## To view your seedphrase
 ```bash
 soundness-cli export-key --name my-key
+
 ```
 
 # Step 2: Play the Game
